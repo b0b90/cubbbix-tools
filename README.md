@@ -74,7 +74,9 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/)  
 - [Slug Generator](https://cubbbix.com/slug-generator/)  
 - [SVG to Favicon Generator](https://cubbbix.com/svg-to-favicon-generator/)  
-- [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/)  
+- [YouTube Thumbnail Downloader](https://cubbbix.com/youtube-thumbnail-downloader/)
+- [WebP Converter](https://cubbbix.com/webp-converter/)  
+
 
 ---
 
