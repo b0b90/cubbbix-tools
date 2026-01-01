@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-39-blue)
+![Tools Count](https://img.shields.io/badge/Tools-42-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -86,7 +86,10 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## SEO
 - [Meta Description Generator](https://cubbbix.com/meta-description-generator/)
 - [Noindex Checker](https://cubbbix.com/noindex-checker/)
-- [HTTP Status Code Checker](https://cubbbix.com/http-status-checker/)  
+- [HTTP Status Code Checker](https://cubbbix.com/http-status-checker/)
+- [Compression Checker](https://cubbbix.com/compression-checker/)
+- [Slug Generator](https://cubbbix.com/slug-generator/)
+- [Open Graph Checker](https://cubbbix.com/open-graph-checker/)
 
 ---
 
