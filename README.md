@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-45-blue)
+![Tools Count](https://img.shields.io/badge/Tools-50-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -46,6 +46,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [JSON to TOON Encoder](https://cubbbix.com/json-to-toon-encoder/) — Convert JSON data to TOON format
 - [Lorem Ipsum Generator](https://cubbbix.com/lorem-ipsum-generator/) — Generate placeholder text for designs
 - [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
+- [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
 - [URL Encoder & Decoder](https://cubbbix.com/url-encoder-decoder/) — Encode and decode URLs safely
 - [Word Counter](https://cubbbix.com/word-counter/) — Count words, characters, and sentences
 
@@ -67,6 +68,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Math Tools
 - [Binomial Distribution Calculator](https://cubbbix.com/binomial-distribution-calculator/) — Calculate binomial probabilities
+- [Partial Derivative Calculator](https://cubbbix.com/partial-derivative-calculator/) — Calculate partial derivatives with steps
 - [Variance Calculator](https://cubbbix.com/variance-calculator/) — Calculate statistical variance
 
 ---
@@ -74,6 +76,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Utilities
 - [Atomic Number Calculator](https://cubbbix.com/atomic-number-calculator/) — Find atomic number, protons, and mass of any element
 - [Color Converter & Picker](https://cubbbix.com/color-converter/) — Convert between HEX, RGB, HSL, and CMYK
+- [Instagram Reel Downloader](https://cubbbix.com/instagram-reel-downloader/) — Download Instagram Reels without watermark
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
 - [PDF to JPG](https://cubbbix.com/pdf-to-jpg/) — Convert PDF pages to JPG images instantly
 - [PNG Optimizer](https://cubbbix.com/png-optimizer/) — Compress PNG images without losing quality
@@ -95,7 +98,6 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Open Graph Checker](https://cubbbix.com/open-graph-checker/) — Preview how your content looks on social media
 - [Page Title Generator](https://cubbbix.com/page-title-generator/) — Generate high-CTR page titles using AI
 - [Structured Data Checker](https://cubbbix.com/structured-data-check/) — Validate JSON-LD and Microdata schema markup
-- [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
 
 ---
 
