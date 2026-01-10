@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-53-blue)
+![Tools Count](https://img.shields.io/badge/Tools-54-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -70,6 +70,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Finance Tools
 - [Auto Loan Early Payoff Calculator](https://cubbbix.com/early-payoff-calculator/) — Calculate savings from early loan payments
 - [VAT Calculator](https://cubbbix.com/vat-calculator/) — Calculate Value Added Tax
+- [SaaS LTV Calculator](https://cubbbix.com/ltv-calculator/) — Calculate Customer Lifetime Value (LTV) and Max Ad Spend (CAC)
 
 ---
 
