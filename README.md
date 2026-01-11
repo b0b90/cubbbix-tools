@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-54-blue)
+![Tools Count](https://img.shields.io/badge/Tools-56-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -60,9 +60,11 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Entertainment Tools
 - [Christmas Countdown](https://cubbbix.com/christmas-countdown/) — Countdown to Christmas day
+- [Fairy Name Generator](https://cubbbix.com/fairy-name-generator/) — Discover your magical fairy name
 - [Meme Generator](https://cubbbix.com/meme-generator/) — Create custom memes easily
 - [Random Movie Picker](https://cubbbix.com/movie-picker/) — Get random movie recommendations
 - [Trivia Quiz](https://cubbbix.com/trivia-quiz/) — Test your knowledge with trivia questions
+- [Wedding Hashtag Generator](https://cubbbix.com/wedding-hashtag-generator/) — Generate creative and witty wedding hashtags
 - [Yes / No Generator](https://cubbbix.com/yes-no-generator/) — Randomly generate Yes or No answers
 
 ---
