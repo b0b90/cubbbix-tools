@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-57-blue)
+![Tools Count](https://img.shields.io/badge/Tools-59-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -34,6 +34,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Engagement Rate Calculator](https://cubbbix.com/social-media-engagement-calculator/) — Measure social media engagement  
 - [Percentage Calculator](https://cubbbix.com/percentage-calculator/) — Percentage increase, decrease, and difference  
 - [Time Zone Difference Calculator](https://cubbbix.com/time-zone-calculator/) — Compare global time zones  
+- [Tithing Calculator](https://cubbbix.com/tithing-calculator/) — Calculate 10% tithing for income
 - [Zakat Calculator](https://cubbbix.com/zakat-calculator/) — Calculate Islamic Zakat easily
 - [Dasvandh Calculator](https://cubbbix.com/dasvandh-calculator/) — Calculate your 10% contribution to the community hence Dasvandh.
 
@@ -86,6 +87,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## Utilities
 - [Atomic Number Calculator](https://cubbbix.com/atomic-number-calculator/) — Find atomic number, protons, and mass of any element
 - [Color Converter & Picker](https://cubbbix.com/color-converter/) — Convert between HEX, RGB, HSL, and CMYK
+- [Email Signature Generator](https://cubbbix.com/email-signature-generator/) — Create free professional email signatures
 - [Instagram Reel Downloader](https://cubbbix.com/instagram-reel-downloader/) — Download Instagram Reels without watermark
 - [Merge PDF Files](https://cubbbix.com/pdf-merge/) — Merge multiple PDF files into one
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
