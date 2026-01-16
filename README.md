@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-62-blue)
+![Tools Count](https://img.shields.io/badge/Tools-63-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -52,6 +52,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Regex Tester](https://cubbbix.com/regex-tester/) — Test and debug regular expressions
 - [SEO Text Analyzer](https://cubbbix.com/seo-text-analyzer/) — Analyze text for SEO optimization
 - [URL Encoder & Decoder](https://cubbbix.com/url-encoder-decoder/) — Encode and decode URLs safely
+- [UUID Generator](https://cubbbix.com/uuid-generator/) — Generate standard UUIDs (v1 and v4) instantly
 - [Word Counter](https://cubbbix.com/word-counter/) — Count words, characters, and sentences
 
 ---
