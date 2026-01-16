@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-64-blue)
+![Tools Count](https://img.shields.io/badge/Tools-65-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -15,6 +15,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 
 ## Table of Contents
 - [Calculators](#calculators)
+- [Career Tools](#career-tools)
 - [Developer Tools](#developer-tools)
 - [Education Tools](#education-tools)
 - [Entertainment Tools](#entertainment-tools)
@@ -26,6 +27,9 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Contribute](#contribute)
 
 ---
+
+## Career Tools
+- [Job Title Generator](https://cubbbix.com/job-title-generator/) — Generate professional job titles for LinkedIn and resumes
 
 ## Calculators
 - [Age Calculator](https://cubbbix.com/age-calculator/) — Calculate exact age in years, months, and days  
