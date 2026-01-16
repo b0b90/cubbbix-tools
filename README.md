@@ -58,6 +58,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ---
 
 ## Education Tools
+- [Reaction Time Tester](https://cubbbix.com/reaction-time-test/) — Test your visual reflexes and reaction speed
 - [Typing Speed Test](https://cubbbix.com/typing-speed-test/) — Test your typing speed and accuracy (WPM)
 
 ---
