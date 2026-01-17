@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-65-blue)
+![Tools Count](https://img.shields.io/badge/Tools-66-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -114,6 +114,7 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 ## SEO
 - [Broken Link Checker](https://cubbbix.com/broken-link-checker/) — Find and fix broken links (404s) on your website
 - [Compression Checker](https://cubbbix.com/compression-checker/) — Verify Gzip and Brotli compression
+- [Google SERP Simulator](https://cubbbix.com/google-serp-simulator/) — Optimize snippets with pixel-perfect desktop & mobile previews
 - [H1 Tag Checker](https://cubbbix.com/h1-tag-checker/) — Check your H1 tag for SEO compliance
 - [HTTP Status Code Checker](https://cubbbix.com/http-status-checker/) — Check status codes and redirect chains
 - [Meta Description Generator](https://cubbbix.com/meta-description-generator/) — Generate SEO-friendly meta descriptions using AI
