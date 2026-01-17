@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-66-blue)
+![Tools Count](https://img.shields.io/badge/Tools-67-blue)
 
 A curated list of free online tools from **Cubbbix**.  
 Useful for developers, creators, students, and everyday productivity.
@@ -101,7 +101,8 @@ This repository exists to make Cubbbix tools easy to discover, bookmark, and sha
 - [Merge PDF Files](https://cubbbix.com/pdf-merge/) — Merge multiple PDF files into one
 - [Password Generator](https://cubbbix.com/password-generator/) — Generate strong, secure passwords
 - [PDF to JPG](https://cubbbix.com/pdf-to-jpg/) — Convert PDF pages to JPG images instantly
-- [PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
+- [Compress PDF](https://cubbbix.com/pdf-compressor/) — Reduce PDF file size online without losing quality
+- [Convert PDF to Markdown](https://cubbbix.com/pdf-to-markdown/) — Convert PDF documents to clean Markdown text
 - [PNG Optimizer](https://cubbbix.com/png-optimizer/) — Compress PNG images without losing quality
 - [QR Code Generator](https://cubbbix.com/qr-code-generator/) — Create QR codes for URLs and text
 - [Slug Generator](https://cubbbix.com/slug-generator/) — Create SEO-friendly URL slugs
