@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/b0b90/cubbbix-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/b0b90/cubbbix-tools)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
-![Tools Count](https://img.shields.io/badge/Tools-420+-brightgreen)
+![Tools Count](https://img.shields.io/badge/Tools-500+-brightgreen)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cubbbix-tools/akojchkfhmcfemkepfjbcnjbnaodamff)
 
 A curated list of free online tools from **Cubbbix**.
@@ -12,6 +12,14 @@ Useful for developers, creators, students, and everyday productivity.
 
 This repository exists to make Cubbbix tools easy to discover, bookmark, and share.
 Get instant access to all tools via our [Official Chrome Extension](https://chromewebstore.google.com/detail/cubbbix-tools/akojchkfhmcfemkepfjbcnjbnaodamff).
+
+---
+
+## 🎉 500+ Tools Milestone — October 2026
+
+> **We've crossed 500+ free tools and utilities.** October added a full family of 36 JPEG XL (.jxl) and JPEG 2000 (.jp2) converters — rebuilt as browsers restored support for the formats — plus six new Chinese learning quizzes and a country language finder. All 300 classic tools were also refreshed with richer guides and FAQs.
+>
+> Thank you to everyone who keeps using, sharing, and linking to Cubbbix.
 
 ---
 
@@ -111,6 +119,11 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [Saudi Iqama & ID Expiry Calculator](https://cubbbix.com/iqama-expiry-calculator/) — Check days left on Saudi Iqama, Passport, Driving License, Istimara, and National ID with dual Hijri-Gregorian calendar, grace periods, and late fine calculation.
 - [Solve Similar Triangles & Side Ratios — Fast & Free](https://cubbbix.com/similar-triangle-calculator/) — Instantly compute missing side lengths, angles, and scale factors for similar triangles. Free online geometry calculator with formulas. Solve similar triangles now.
 
+- [Binary Division Calculator](https://cubbbix.com/binary-division-calculator/) — Free online binary division calculator. Divide two binary numbers with quotient, remainder, step-by-step long division, and decimal conversion.
+- [Blox Fruits Values & Trade Calculator (2025–2026)](https://cubbbix.com/blox-fruits-values/) — Free Blox Fruits trade calculator and live fruit values list. Calculate Win/Fair/Loss (W/F/L), check the 40% Beli trade limit, and compare physical and permanent fruit values.
+- [Conduit Fill Calculator (NEC Wire & Pipe Fill Chart)](https://cubbbix.com/conduit-fill-calculator/) — Free NEC Chapter 9 conduit fill calculator & wire capacity chart. Calculate minimum conduit size, maximum wire fill percentage for EMT, PVC Sch 40/80, RMC, IMC, FMC, and LFMC raceways.
+- [Pythagorean Theorem Calculator (Hypotenuse & Leg Solver)](https://cubbbix.com/pythagorean-theorem-calculator/) — Free online Pythagorean theorem calculator & hypotenuse formula solver. Calculate the hypotenuse c = √(a² + b²) or missing leg with exact radicals, step-by-step algebra, area, angles, and SVG
+- [Raosoft Sample Size Calculator](https://cubbbix.com/raosoft-sample-size-calculator/) — Calculate survey sample size using the official Raosoft formula. Free online Raosoft calculator for margin of error, confidence level (90%, 95%, 99%), and population size.
 ---
 
 ## Career Tools
@@ -199,6 +212,9 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [Test Screen Resolution & Viewports — Free Tool](https://cubbbix.com/screen-resolution-simulator/) — Instantly preview webpages across desktop, laptop, tablet, and mobile device screen resolutions. Free online responsive viewport tester. Test screen sizes now.
 - [Verify Data Hashes & File Integrity — Fast & Free](https://cubbbix.com/verify/) — Instantly compare SHA-256, MD5, or text checksums to verify file integrity and match accuracy. Free, private online data verification tool. Verify file integrity now.
 
+- [Chat GBT Typo Portal](https://cubbbix.com/chat-gbt/) — Searched for Chat GBT instead of ChatGPT? Welcome to the Chat GBT typo club! Millions make this mistake. Access real ChatGPT or explore
+- [Discord Bio Templates](https://cubbbix.com/discord-bio-template/) — Free aesthetic Discord bio templates, cute About Me ideas, and copy-paste Discord bios. 150+ aesthetic, anime, gaming, minimalist, funny, and duo Discord bio layouts with live Discord profile
+- [XSD to XML Converter Online](https://cubbbix.com/xsd-to-xml-converter/) — Free XSD to XML converter online. Generate sample XML instances from XML Schema Definition (XSD) files instantly in your browser.
 ---
 
 ## Education
@@ -264,6 +280,18 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [Test Your Visual Reaction Time — Fast & Free](https://cubbbix.com/reaction-time-test/) — Instantly measure your visual reaction speed in milliseconds with benchmark rankings. Free, fun online reaction speed test. Benchmark your reaction time now.
 - [Test Your WPM Typing Speed — Fast & Free Online](https://cubbbix.com/typing-speed-test/) — Instantly test your typing speed in Words Per Minute (WPM) and accuracy percentage with live timers. Free online typing speed test. Benchmark your WPM now.
 
+- [World Capital Finder](https://cubbbix.com/capital-finder/) — Free interactive world capital finder and country capitals directory. Instantly find the capital of France, Italy, USA, and all 197 countries with population, languages, currency, timezones, maps
+- [Chinese Characters Quiz](https://cubbbix.com/chinese-characters-quiz/) — Twenty questions on character meanings, picture-built characters and the radicals that let you guess words you have never seen.
+- [HSK 1 Vocabulary Quiz](https://cubbbix.com/chinese-hsk-1-vocabulary-quiz/) — Twenty questions drawn at random from the official HSK 1 word list: meanings, measure words, sentence gaps and the buy/sell tone trap.
+- [HSK 2 Vocabulary Quiz](https://cubbbix.com/chinese-hsk-2-vocabulary-quiz/) — Twenty questions drawn at random from the HSK 2 list: the words for exams, travel, health, feelings and comparisons that HSK 1 leaves out.
+- [Chinese Numbers Quiz](https://cubbbix.com/chinese-numbers-quiz/) — Twenty questions on the number system English speakers get wrong: 万, 零, 两 vs 二, phone-number yāo, and the measure words books, photos and cats demand.
+- [Pinyin Quiz](https://cubbbix.com/chinese-pinyin-quiz/) — Twenty questions on the pinyin traps: j/q/x with hidden ü, aspirated pairs like b/p, tone-mark placement and the syllables that do not exist.
+- [Chinese Tones Quiz](https://cubbbix.com/chinese-tones-quiz/) — Twenty questions on the four Mandarin tones, the neutral tone, tone marks and the tone-change rules (sandhi) that trip up every learner.
+- [Country Language Finder](https://cubbbix.com/country-language-finder/) — Pick any of 200+ countries and instantly see its official language(s), the approx. share of people who speak the main language, and other widely spoken languages. Free, no signup.
+- [Deutsch Einstufungstest Online (A1–C2)](https://cubbbix.com/deutsch-einstufungstest/) — Kostenloser Deutsch Einstufungstest online (A1–C2): Ermitteln Sie Ihr Deutschniveau nach GER in 10 Minuten. 40 adaptive Testfragen für Ausbildung, Beruf und Zertifikat.
+- [Norsk & Dansk Julekalender](https://cubbbix.com/julekalender/) — Interaktiv norsk og dansk julekalender med 24 desember-luker, nedtelling til julaften og komplett kalender for offentlige helligdager (røde dager) i Norge og Danmark.
+- [Professional Personality Index (Big Five / OCEAN)](https://cubbbix.com/personality-test/) — Discover your personality type instantly. Free quiz, shareable results, and optional verifiable badge to showcase your traits.
+- [Texas Drivers License Practice Test](https://cubbbix.com/texas-driving-test/) — Take our free Texas drivers license practice test for the DPS written exam. 36 handbook-style questions on right-of-way, road signs, and traffic laws with instant pass/fail score.
 ---
 
 ## Entertainment Tools
@@ -286,6 +314,9 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [Tap BPM Counter — Instant, Free Online Tempo Tool](https://cubbbix.com/bpm-tap-counter/) — Instantly find the Beats Per Minute (BPM) of any song by tapping your spacebar. Free, private, and highly accurate. Measure tempo effortlessly.
 - [Wheel of Names](https://cubbbix.com/wheel-of-names/) — Customizable online spinning prize wheel for picking random names, raffle winners, and classroom decisions with sound effects, celebratory confetti, and winner elimination.
 
+- [3D Snake Game](https://cubbbix.com/3d-snake-game/) — Play retro-modern 3D Snake online in your browser! Featuring glowing neon voxel 3D graphics, dynamic camera views, retro sound effects, and a live global leaderboard. 100% free, no download required.
+- [Jelly Cut Game](https://cubbbix.com/jelly-cut-game/) — Play Jelly Cut 3D online! Satisfying kawaii soft-body jelly slicing game in Three.js with realistic gelatin jiggle physics, 1-blade, 2-blade, and 3-blade cutting tools, ASMR sound effects, and 30 fun
+- [Magic & Fantasy Spell Generator](https://cubbbix.com/magic-spell-generator/) — Free online magic spell generator for D&D, fantasy writers, and RPG gamers. Generate custom spells, incantations, elemental magic, and superpowers instantly.
 ---
 
 ## Finance Tools
@@ -307,6 +338,8 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [Saudi GOSI & Net Salary Calculator](https://cubbbix.com/gosi-salary-calculator/) — Calculate your exact GOSI deductions (9.75% / 21.5%), employer contributions, and net monthly take-home salary in Saudi Arabia under current and 2024 Social Insurance laws.
 - [Saudi VAT Registration Checker](https://cubbbix.com/saudi-vat-registration-check/) — Check if your business must register for 15% VAT with ZATCA in Saudi Arabia under mandatory 375k SAR, voluntary 187.5k SAR, and rolling 12-month rules.
 
+- [Hitung Jumlah Hari Berlalu](https://cubbbix.com/id/date-calculator/) — Kalkulator tanggal online gratis untuk hitung jumlah hari berlalu, selisih dua tanggal, hitung mundur, serta tambah atau kurang hari, bulan, dan tahun.
+- [UK Salary Calculator 2026/27](https://cubbbix.com/uk-salary-calculator/) — Calculate your take-home pay after income tax, National Insurance, student loans and pension with our free UK salary calculator for 2026/27. Instant net pay breakdown.
 ---
 
 ## Health & Fitness
@@ -317,6 +350,8 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [Free ADHD Self-Test — Instant Online Assessment](https://cubbbix.com/adhd-self-test/) — Take a quick, free ADHD self-assessment based on standard checklists. 100% private, no signup required. Get instant insights securely in your browser.
 - [Kids Shoe Size Chart & Calculator](https://cubbbix.com/kids-shoe-size-chart/) — Instantly convert children's shoe sizes across US, UK, EU, and CM measurements. Free online sizing guide. Find the right fit instantly.
 
+- [Calculadora de IMC](https://cubbbix.com/imc-calculator/) — Calculadora de IMC online gratis según la OMS. Calcula tu índice de masa corporal, peso ideal para mujer y hombre según estatura y edad, porcentaje de grasa corporal y rango de peso saludable.
+- [TDEE Calculator](https://cubbbix.com/tdee-calculator/) — Free online TDEE calculator & macronutrient planner. Calculate exact Total Daily Energy Expenditure, BMR, BMI, calorie deficits for fat loss, muscle gain surpluses, and zig-zag calorie cycling.
 ---
 
 ## Home & Garden
@@ -333,6 +368,46 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [Pixelate Image](https://cubbbix.com/pixelate-image/) — Pixelate photos online or censor specific areas like faces and license plates with interactive drag-and-resize controls.
 - [Resize Pixel](https://cubbbix.com/resize-pixel/) — Resize image pixel dimensions online for free. Scale by exact width and height in pixels, maintain aspect ratio, or choose presets for social media.
 
+- [AVIF to JXL Converter](https://cubbbix.com/avif-to-jxl/) — Convert AVIF images to JPEG XL (.jxl) online for free. Private in-browser conversion — no uploads, no sign-up, no watermark.
+- [Batch Image Converter](https://cubbbix.com/batch-image-converter/) — Batch convert images between JXL, JP2, JPG, PNG, WebP, AVIF and PDF online for free. Mixed inputs, one target, ZIP download — private, in your browser.
+- [BMP to JXL Converter](https://cubbbix.com/bmp-to-jxl/) — Convert BMP bitmap images to JPEG XL (.jxl) online for free — shrink huge uncompressed files dramatically. Private in-browser conversion.
+- [Change Image Aspect Ratio Online](https://cubbbix.com/change-image-aspect-ratio/) — Change image aspect ratio online for free. Convert photo ratios to 16:9, 4:5, 1:1, 5:2, 2:1, 9:16, or A4 size. Convert portrait to landscape with smart crop or blurred background padding without
+- [Compress JPG To 40KB](https://cubbbix.com/compress-jpg-to-40kb/) — Compress JPG images to 40KB online for free. Convert photo into 40 KB JPG size for government job forms, admission applications, and passport portals with zero quality loss.
+- [Compress to JXL](https://cubbbix.com/compress-jxl/) — Compress images to JPEG XL (.jxl) online for free — often 30–60% smaller than JPG at the same quality. Private in-browser compression, batch + ZIP.
+- [GIF to JXL Converter](https://cubbbix.com/gif-to-jxl/) — Convert GIF images to JPEG XL (.jxl) online for free. Private in-browser conversion — no uploads, no sign-up, no watermark.
+- [HEIC to JXL Converter](https://cubbbix.com/heic-to-jxl/) — Convert iPhone HEIC photos to JPEG XL (.jxl) online for free. Decoded and converted privately in your browser — no uploads, no sign-up.
+- [Image Format Comparison Lab](https://cubbbix.com/image-format-comparison/) — Compare image format file sizes on YOUR photo: encode it as JPG, PNG, WebP, AVIF, JXL and JP2 side by side, free and privately in your browser.
+- [JP2 Metadata Viewer](https://cubbbix.com/jp2-metadata-viewer/) — View JPEG 2000 (.jp2) metadata online for free: header dimensions, components, bit depth and colour space — read privately in your browser, no uploads.
+- [JP2 to JPG Converter](https://cubbbix.com/jp2-to-jpg/) — Convert JPEG 2000 (.jp2) images to JPG online for free. No uploads — decoded privately in your browser with OpenJPEG. Batch convert, no sign-up.
+- [JP2 to JXL Converter](https://cubbbix.com/jp2-to-jxl/) — Convert JPEG 2000 (.jp2) images to JPEG XL (.jxl) online for free — the archival classic meets its modern successor. Private in-browser conversion.
+- [JP2 to PDF Converter](https://cubbbix.com/jp2-to-pdf/) — Convert JPEG 2000 (.jp2) images to PDF documents online for free. Each image becomes a one-page PDF, created privately in your browser.
+- [JP2 to PNG Converter](https://cubbbix.com/jp2-to-png/) — Convert JPEG 2000 (.jp2) images to lossless PNG online for free. Decoded privately in your browser with OpenJPEG — no uploads, no sign-up.
+- [JP2 to TIFF Converter](https://cubbbix.com/jp2-to-tiff/) — Convert JPEG 2000 (.jp2) images to TIFF online for free. Uncompressed, lossless TIFF for print and editing — converted privately in your browser.
+- [JP2 to WebP Converter](https://cubbbix.com/jp2-to-webp/) — Convert JPEG 2000 (.jp2) images to WebP online for free — bring archive images to the modern web. Private in-browser conversion, batch + ZIP.
+- [JP2 Viewer](https://cubbbix.com/jp2-viewer/) — Open and view JPEG 2000 (.jp2) images online for free. No uploads — decoded privately in your browser with OpenJPEG, with size and dimension details.
+- [JPG to JP2 Converter](https://cubbbix.com/jpg-to-jp2/) — Convert JPG images to lossless JPEG 2000 (.jp2) online for free. Encoded privately in your browser with OpenJPEG — no uploads, no sign-up.
+- [JPG to JXL Converter](https://cubbbix.com/jpg-to-jxl/) — Convert JPG images to JPEG XL (.jxl) online for free — smaller files at the same quality. Private in-browser conversion, batch + ZIP, no sign-up.
+- [JXL Browser Support Checker](https://cubbbix.com/jxl-browser-support/) — Test whether your browser supports JPEG XL and JPEG 2000 with real test images, and see the current support status for Chrome, Firefox, Safari and Edge.
+- [JXL EXIF Remover](https://cubbbix.com/jxl-exif-remover/) — Remove EXIF and XMP metadata from JPEG XL (.jxl) files online for free. Box-level removal — no re-encoding, no quality loss, no uploads.
+- [JXL Metadata Viewer](https://cubbbix.com/jxl-metadata-viewer/) — View JPEG XL (.jxl) metadata online for free: dimensions, container boxes, EXIF camera data and GPS — read privately in your browser, no uploads.
+- [JXL Resizer](https://cubbbix.com/jxl-resizer/) — Resize JPEG XL (.jxl) images online for free: set exact pixels or scale by percent, save as JXL, PNG or JPG. Private in-browser resizing, no uploads.
+- [JXL & JP2 Sample Files](https://cubbbix.com/jxl-sample-files/) — Download free sample .jxl and .jp2 files (with the original PNG) to test viewers, converters and your own software. Real files, real sizes, no sign-up.
+- [JXL to AVIF Converter](https://cubbbix.com/jxl-to-avif/) — Convert JPEG XL (.jxl) images to AVIF online for free — the smallest modern image format. Private in-browser conversion with quality control.
+- [JXL to BMP Converter](https://cubbbix.com/jxl-to-bmp/) — Convert JPEG XL (.jxl) images to BMP online for free. Lossless and uncompressed, converted privately in your browser. No uploads, no sign-up.
+- [JXL to GIF Converter](https://cubbbix.com/jxl-to-gif/) — Convert JPEG XL (.jxl) images to GIF online for free. Private in-browser conversion — no uploads, no sign-up, no watermark.
+- [JXL to ICO Converter](https://cubbbix.com/jxl-to-ico/) — Convert JPEG XL (.jxl) images to ICO icon files online for free. Make Windows icons and favicons from JXL images, privately in your browser.
+- [JXL to JPG Converter](https://cubbbix.com/jxl-to-jpg/) — Convert JPEG XL (.jxl) images to JPG online for free. No uploads — conversion runs privately in your browser. Batch convert, no sign-up, no watermark.
+- [JXL to PDF Converter](https://cubbbix.com/jxl-to-pdf/) — Convert JPEG XL (.jxl) images to PDF documents online for free. Each image becomes a one-page PDF, created privately in your browser. No sign-up.
+- [JXL to PNG Converter](https://cubbbix.com/jxl-to-png/) — Convert JPEG XL (.jxl) images to lossless PNG online for free. Transparency preserved, no uploads — everything runs privately in your browser.
+- [JXL to TIFF Converter](https://cubbbix.com/jxl-to-tiff/) — Convert JPEG XL (.jxl) images to TIFF online for free. Uncompressed, lossless TIFF for print and archiving — converted privately in your browser.
+- [JXL to WebP Converter](https://cubbbix.com/jxl-to-webp/) — Convert JPEG XL (.jxl) images to WebP online for free — the web-ready format every browser supports. Private in-browser conversion, batch + ZIP.
+- [JXL Viewer](https://cubbbix.com/jxl-viewer/) — Open and view JPEG XL (.jxl) images online for free. No uploads — the image is decoded privately in your browser, with size and dimension details.
+- [PAN Card Resizer 2026](https://cubbbix.com/pan-card-resizer/) — Free online PAN card resizer to crop, resize, and compress photo (213x213 px, <50KB), signature (400x200 px, <50KB), and document scan (<300KB PDF/JPG) strictly matching NSDL and UTI rules.
+- [Photo Size Compressor](https://cubbbix.com/photo-size-compressor/) — Free online Photo Size Compressor. Reduce JPG file size to 40KB, 50KB, 100KB without losing quality. Optimize images for websites, government forms, and web applications.
+- [PNG to JP2 Converter](https://cubbbix.com/png-to-jp2/) — Convert PNG images to lossless JPEG 2000 (.jp2) online for free. Encoded privately in your browser with OpenJPEG — no uploads, no sign-up.
+- [PNG to JXL Converter](https://cubbbix.com/png-to-jxl/) — Convert PNG images to JPEG XL (.jxl) online for free — keep transparency, slash file size. Private in-browser conversion, no uploads, no sign-up.
+- [TIFF to JXL Converter](https://cubbbix.com/tiff-to-jxl/) — Convert TIFF images to JPEG XL (.jxl) online for free — shrink huge lossless scans dramatically. Private in-browser conversion, no uploads.
+- [WebP to JXL Converter](https://cubbbix.com/webp-to-jxl/) — Convert WebP images to JPEG XL (.jxl) online for free. Private in-browser conversion with quality control — no uploads, no sign-up, no watermark.
 ---
 
 ## Math Tools
@@ -456,6 +531,7 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [Trace URL Redirect Chains (301/302) — Free SEO Tool](https://cubbbix.com/redirect-checker/) — Instantly follow HTTP redirect paths, 301/302 status codes, and final destination URLs. Free online technical SEO redirect checker. Audit URL redirects fast.
 - [Validate Structured Data & Schema JSON-LD — Free Tool](https://cubbbix.com/structured-data-check/) — Instantly test schema markup, JSON-LD, and Microdata for rich snippet errors against Google standards. Free online technical SEO auditor. Validate structured data now.
 
+- [Google Product Category List & Taxonomy Finder (with IDs)](https://cubbbix.com/google-product-category-list/) — Search, browse, and validate all 5,595 official Google Product Categories and IDs. Real-time sync with Google's live feed, smart AI product classifier, tree explorer, and instant CSV/TXT export for
 ---
 
 ## Sikhism
@@ -498,6 +574,8 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [Reverse Words & Letters in Text — Fast & Free](https://cubbbix.com/reverse-words/) — Instantly flip word order or reverse letter characters within text strings online. Free online text reversing tool for writers. Reverse your text now.
 - [Word to Text Converter](https://cubbbix.com/docx-to-text/) — Extract clean plain text, Markdown, tables, and metadata from Microsoft Word (.docx, .docm) files in your browser.
 
+- [Comma Adder Online](https://cubbbix.com/comma-adder/) — Online Comma Adder tool to insert commas after each line, add quotes, convert list to comma separated values (CSV), remove line breaks, and format text lists instantly.
+- [Letra Cursiva](https://cubbbix.com/es/letra-cursiva/) — Convierte texto normal a letra cursiva bonita al instante. 10 estilos de letras cursivas, fuentes caligráficas y góticas para copiar y pegar en Instagram, TikTok, WhatsApp y Facebook.
 ---
 
 ## Travel Tools
@@ -560,10 +638,37 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [What Is My IP Address? — Instant IPv4, IPv6 & Location](https://cubbbix.com/what-is-my-ip/) — Instantly look up your public IP address (IPv4/IPv6), ISP provider, city, and country location. 100% free, fast online IP lookup tool. Check your IP address now.
 - [White Screen Display — Bright Fullscreen & Monitor Test](https://cubbbix.com/white-screen/) — Instantly turn your screen into a clean white display for monitor dead pixel testing, light tracing, or room lighting. Free online white screen tool. Open white screen now.
 
+- [التاريخ الهجري اليوم](https://cubbbix.com/ar/today-hijri-date/) — معرفة التاريخ الهجري اليوم والميلادي مباشرة مع تحديد يوم الشهر الهجري الحالي، تقويم أم القرى والرؤية الشرعية في الجزائر والسعودية، ومحول التاريخ الهجري التفاعلي.
+- [Type Arabic online without an Arabic keyboard. Free virtual Arabic keyboard (لوحة مفاتيح عربية / Clavier Arabe) with smart Arabizi transliteration, Tashkeel diacritics, voice typing, and instant translation.](https://cubbbix.com/arabic-keyboard/) — Type Arabic online without an Arabic keyboard. Free virtual Arabic keyboard (لوحة مفاتيح عربية / Clavier Arabe) with smart Arabizi transliteration, Tashkeel diacritics, voice typing, and instant
+- [Calendrier 2026 officiel et interactif : numéros de semaine ISO-8601 (1 à 53), jours fériés légaux au Luxembourg, France, Belgique, Suisse, vacances scolaires, éphémérides et dates des 12 signes astrologiques. Vue annuelle et mensuelle imprimable.](https://cubbbix.com/calendrier-2026/) — Calendrier 2026 officiel et interactif : numéros de semaine ISO-8601 (1 à 53), jours fériés légaux au Luxembourg, France, Belgique, Suisse, vacances scolaires, éphémérides et dates des 12 signes
+- [Printable Car Maintenance Checklist PDF](https://cubbbix.com/car-maintenance-checklist/) — Free printable car maintenance checklist and vehicle service log PDF generator. Customize mileage intervals (3k, 15k, 30k, 60k, 100k miles), pre-trip inspections, and DIY oil logs for US Letter and
+- [Clock with Milliseconds](https://cubbbix.com/clock-with-milliseconds/) — Free online digital clock displaying time with milliseconds and high-frequency nanosecond precision timer. Includes live stopwatch, UTC converter, and lap time counter.
+- [ブラウザですぐ使える無料のWEB電卓・計算機アプリ。四則演算、消費税10%/軽減税率8%の税込・税抜計算、%計算、ルート(√)、関数電卓(sin/cos/tan/log/ln/累乗)、計算履歴保存・CSV出力に対応。PC・スマホで快適に動作。](https://cubbbix.com/dentaku/) — ブラウザですぐ使える無料のWEB電卓・計算機アプリ。四則演算、消費税10%/軽減税率8%の税込・税抜計算、%計算、ルート(√)、関数電卓(sin/cos/tan/log/ln/累乗)、計算履歴保存・CSV出力に対応。PC・スマホで快適に動作。
+- [לוח שנה עברי ולועזי אינטראקטיבי ומלא לשנת 2026 (תשפ"ו](https://cubbbix.com/hebrew-calendar/) — לוח שנה עברי ולועזי אינטראקטיבי ומלא לשנת 2026 (תשפ"ו – תשפ"ז). כולל תאריכים עבריים באותיות, חגי ישראל ומועדי ישראל, פרשת השבוע, זמני כניסת ויציאת שבת בירושלים ותל אביב, ספירת העומר והדפסה.
+- [Quelle heure est-il en France ? Horloge exacte en direct à Paris, Marseille, Lyon, Manosque et toute la France. Fuseau horaire CET/CEST, changement d'heure et décalage.](https://cubbbix.com/heure-france/) — Quelle heure est-il en France ? Horloge exacte en direct à Paris, Marseille, Lyon, Manosque et toute la France. Fuseau horaire CET/CEST, changement d'heure et décalage.
+- [Printable Hospital Bag Checklist PDF](https://cubbbix.com/hospital-bag-checklist/) — Free printable hospital bag checklist PDF generator for labor, delivery, and postpartum. Customize Mom, Baby, Partner, and C-Section packing lists for US Letter & A4 paper.
+- [Calculate peptide reconstitution, bacteriostatic water volume, and syringe draw units for U-100, U-50, and U-30 insulin syringes. Features live visual syringe simulator, reverse dosing, and research presets.](https://cubbbix.com/peptide-calculator/) — Calculate peptide reconstitution, bacteriostatic water volume, and syringe draw units for U-100, U-50, and U-30 insulin syringes. Features live visual syringe simulator, reverse dosing, and research
+- [Printable Graph Paper PDF Generator](https://cubbbix.com/printable-graph-paper/) — Free printable graph paper PDF generator online. Customize 5mm grid, 1/4 inch, 1cm, 3D isometric grid, and dot grid paper. Download or print vector PDFs directly for A4 and US Letter sizes.
+- [Printable Lined Paper PDF Generator](https://cubbbix.com/printable-lined-paper/) — Free printable lined paper PDF generator online. Customize College Ruled (7.1mm), Wide Ruled (8.7mm), Narrow Ruled, Primary Handwriting & Cornell Notes templates for A4 and US Letter sizes.
+- [Free online psychrometric calculator & interactive psychrometric chart. Calculate wet bulb temperature (WBT), relative humidity (RH), dew point, enthalpy, and humidity ratio instantly.](https://cubbbix.com/psychrometric-calculator/) — Free online psychrometric calculator & interactive psychrometric chart. Calculate wet bulb temperature (WBT), relative humidity (RH), dew point, enthalpy, and humidity ratio instantly.
+- [Gratis online rekenmachine voor Nederland en België. Eenvoudig & wetenschappelijk rekenen, stelling van Pythagoras berekenen (a² + b² = c²), percentages en geschiedenis.](https://cubbbix.com/rekenmachine/) — Gratis online rekenmachine voor Nederland en België. Eenvoudig & wetenschappelijk rekenen, stelling van Pythagoras berekenen (a² + b² = c²), percentages en geschiedenis.
+- [Convert numbers to Roman numerals and Roman numerals to numbers instantly. Includes step-by-step breakdown calculation, Roman numeral chart 1-1000, date converter, and classical rules.](https://cubbbix.com/roman-numerals/) — Convert numbers to Roman numerals and Roman numerals to numbers instantly. Includes step-by-step breakdown calculation, Roman numeral chart 1-1000, date converter, and classical rules.
+- [Stoper Online](https://cubbbix.com/stoper/) — Online stoper co do milisekundy liczy czas od kliknięcia przycisku Start. Umożliwia dodawanie międzyczasów (rundy), automatyczny zapis stanu po zamknięciu, dni, tryb pełnoekranowy oraz skróty
+- [Free online Swiss work certificate generator (Arbeitszeugnis / Certificat de travail). Compliant with Article 330a CO. Decode secret HR grades and download Word & PDF templates.](https://cubbbix.com/swiss-work-certificate/) — Free online Swiss work certificate generator (Arbeitszeugnis / Certificat de travail). Compliant with Article 330a CO. Decode secret HR grades and download Word & PDF templates.
+- [Vérification VIN Gratuite & Recherche Plaque d'Immatriculation](https://cubbbix.com/verification-vin-gratuit/) — Vérification VIN gratuite en ligne et décodeur de numéro de châssis en France et Europe. Vérifiez la marque, l'année modèle, l'homologation CE, le non-gage et préparez la vente de votre véhicule.
 ---
 
 ## Engineering Blog
 - [Liechtenstein Explained: Top 10 Questions on Language, Business, Monarchy, and Daily Life](https://cubbbix.com/blog/liechtenstein-country-guide-language-business-monarchy/) — Explore Liechtenstein with answers to the top 10 questions on its Alemannic German language, low-tax business economy, constitutional monarchy, Swiss Franc currency, and travel.
+- [How to Improve a Home Workstation Before Buying More Equipment](https://cubbbix.com/blog/home-workstation-improvement-tips/) — Don't buy new gear yet. Fix a slow PC, posture and glare, declutter the desk, and know when an upgrade is actually worth the money.
+- [The Science of Keyboard Speed: How Fast Can Gamers Really Type and React?](https://cubbbix.com/blog/the-science-of-keyboard-speed/) — How fast can gamers really press keys? Reaction time, typing speed, CPS and muscle memory, plus the keyboard hardware that actually matters.
+- [JPEG XL Is Back: Chrome 155 and Firefox 157 Support It Again](https://cubbbix.com/blog/jpeg-xl-is-back/) — Chrome 155 restored JPEG XL in October 2026 and Firefox 157 enabled it by default in September 2026. Specs, the 2022 removal, a size comparison against JPEG, WebP and AVIF, and the jobs .jxl files
+- [Home and Interior Design Software: 8 Tools Tested for 2D Plans, 3D Renders, and Remodel Budgets](https://cubbbix.com/blog/best-home-and-interior-design-software/) — Compare 8 home and interior design programs across 2D CAD drafting, 3D photorealistic rendering, hardware requirements, and license costs from free web tools to professional architectural suites.
+- [2026 Calendar with Holidays Printable PDF: Minimalist Monthly Desk Planner](https://cubbbix.com/blog/2026-calendar-with-holidays-printable-pdf/) — Download the 2026 calendar with holidays printable PDF. Includes 12 landscape monthly sheets in 300 DPI vector resolution with US federal holidays and monthly goal sections for $3.
+- [AI Regulation News October 2026: The August Reckoning, US Preemption Battle, and 15 Countries Update](https://cubbbix.com/blog/ai-regulation-october-2026-global-update/) — Comprehensive October 2026 analysis of global AI regulation: the EU AI Act August 2 compliance reckoning, the high-stakes US federal preemption battle, technical auditing mandates, and regulatory
+- [How to Type the Not Equal Sign (≠) on Mac, Windows, and Mobile](https://cubbbix.com/blog/how-to-type-not-equal-sign/) — Complete guide and keyboard shortcuts to type the mathematical not equal sign (≠) on Mac, Windows, iPhone, Android, Google Docs, LaTeX, and programming languages.
+- [UAE Visit Visa Rules: Salary Requirements, Fees, and New Entry Updates](https://cubbbix.com/blog/uae-visit-visa-rules-salary-requirements/) — Complete guide to UAE visit visa rules: host salary requirements (AED 4,000 to AED 10,000), visa fees by duration, mandatory airport entry checks, and Sharjah visa news.
+- [Work Visa Requirements in Italy: Apply for the Italy Work Visa](https://cubbbix.com/blog/work-visa-requirements-italy-apply/) — Complete guide to Italy work visa requirements: Decreto Flussi quotas, Nulla Osta authorization, visa fees (€116), online portal steps, and job opportunities for Pakistani and Indian applicants.
 - [French Language Certification in Cameroon: TCF, TEF, DELF, and DALF Exam Guide (2026)](https://cubbbix.com/blog/french-language-certification-cameroon-tcf-tef-delf-guide/) — Complete guide to French exams in Cameroon: Compare TCF, TEF, DELF, DALF fees in FCFA, Yaoundé & Douala test centers, and take our free CEFR diagnostic test.
 - [AI Regulation News September 2026: Global Enforcement Waves, State-Level Fractures, and Statutory Compliance Deadlines](https://cubbbix.com/blog/ai-regulation-september-2026-global-update/) — September 2026 global AI regulation update: EU AI Act high-risk audits, California SB 1047 deadline, Brazil Senate vote, China CAC inspections, and a 4-week compliance action plan.
 - [Can You Get a Job in France Without Speaking French? Language Levels, Visas & Learning Timelines](https://cubbbix.com/blog/can-you-get-a-job-in-france-without-speaking-french/) — Can you work in France without speaking French? Explore English-speaking industries, minimum CEFR levels (A2–C1), and realistic study timelines.
