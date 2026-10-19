@@ -9,6 +9,7 @@
 
 A curated list of free online tools from **Cubbbix**.
 Useful for developers, creators, students, and everyday productivity.
+Almost every entry is a Cubbbix tool; a rare community pick from another maker is marked *(community pick)*.
 
 This repository exists to make Cubbbix tools easy to discover, bookmark, and share.
 Get instant access to all tools via our [Official Chrome Extension](https://chromewebstore.google.com/detail/cubbbix-tools/akojchkfhmcfemkepfjbcnjbnaodamff).
@@ -150,6 +151,7 @@ Get instant access to all tools via our [Official Chrome Extension](https://chro
 - [Cubic Bezier Editor](https://cubbbix.com/cubic-bezier-editor/) — Interactive CSS cubic-bezier curve editor and animation generator. Drag control points P1 and P2 to build custom timing functions, preview easing animations, and copy CSS code.
 - [Generate Barcodes — Instant, Free Online Creator](https://cubbbix.com/barcode-generator/) — Instantly create UPC, EAN, and QR barcodes for your products. Free, completely private, and works in your browser. Download high-quality barcodes now.
 - [Generate Color Palettes — Free Instant Design Tool](https://cubbbix.com/color-palette-generator/) — Instantly create stunning, harmonious color schemes for web and graphic design. Free, private, and highly customizable. Start designing now.
+- [Image Clipboard](https://www.imageclipboard.xyz/) — Free browser-based clipboard for saving, searching, and copying image, GIF, emoji, and sticker links. Favorites, recent items, JSON backup, and a built-in emoji library. No account required; collections stay in your browser. *(community pick)*
 - [Instagram Grid Maker](https://cubbbix.com/instagram-grid-maker/) — Instantly split your photos into seamless 3x1, 3x2, or 3x3 grids for your Instagram profile. Free online grid maker. Split images instantly.
 - [Interactive 2D Physics Sandbox — Instant & Free](https://cubbbix.com/physics-sandbox/) — Instantly simulate gravity, collisions, forces, and rigid bodies in a dynamic 2D canvas. Free online physics playground. Experiment with 2D physics now.
 - [Tier List Maker](https://cubbbix.com/tier-list-maker/) — Create, customize, and export custom tier lists online for free. Drag & drop images or text badges into S–F tiers and export high-resolution PNG images.
